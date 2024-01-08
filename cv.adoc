@@ -1,0 +1,160 @@
+:icons: font
+:pdf-theme: pdf-theme.yml
+
+ifeval::["{backend}" == "html5"]
+== BASSAM ALHARBI http://bsa10.github.io/cv.pdf[icon:download[0.5x],role=external,window=_blank]
+endif::[]
+
+ifeval::["{backend}" == "pdf"]
+== BASSAM ALHARBI http://bsa10.github.io/index.html[icon:globe-africa[0.5x],role=external,window=_blank]
+endif::[]
+
+Experienced software engineer with a passion for developing innovative software that accelerates 
+the efficiency and effectiveness of organizational success. Well versed in technology and writing
+code to create reliable and easy-to-use systems. Interested in all modern technologies that help 
+develop modern programs. Currently, I am developing web platforms and using the necessary 
+web technologies.
+
+.Contact Information
+****
+[.text-center]
+bsalharbi00@gmail.com
+| https://github.com/bsa10[Github,role=external,window=_blank]
+| https://www.linkedin.com/in/bsa10[Linkedin,role=external,window=_blank]
+****
+
+== Work Experience
+
+=== Software Engineer
+===== Elm
+__May 2023 – Present +
+Riyadh, Saudi Arabia__
+
+Elm Company is a Saudi Joint Stock Company owned by Saudi Public Investment Fund (PIF), it is specialized in providing
+secure electronic services, and has been in existence since 1988 as a technical research and development lab for
+the Saudi Ministry of Interior. +
+
+Absher::
+Absher platform is the electronic platform of the Ministry of Interior.
+It aims to provide the services of the Saudi Ministry of Interior digitally and in an integrated
+manner to citizens, residents and visitors, by taking advantage of technical
+capabilities and harnessing modern technologies. This provides an excellent
+user experience through automated services with high reliability, security and efficiency.
+
+- Develope and maintain Absher services
+- Squad lead and responsible to achieve several absher services.
+- Contributed to training and mentoring new joiners to the team.
+
++
+.Technologies used
+`Java` (__up to jdk8__), `Spring framework`, `Spring Boot`,
+`IBM WebSphere Application Server`, `IBM WebSphere Portal`, `IBM WebSphere MQ`,
+`Redis`, `Jenkins`, `IBM DataPower`, `IBM Db2`
+`Jira`, `Bitbucket`
+
+
+=== Software Engineer / Full Stack Developer
+==== TAHAKOM
+__ June 2022 - May 2023 +
+Riyadh, Saudi Arabia__
+
+__ Full-time job__
+
+Saudi Technology and Security Comprehensive Control Company (Tahakom)
+is one of Tahakom Investment affiliated companies, established on 17/11/1436 H – 01/09/2015,
+based in Riyadh and operates in all regions of the Kingdom. The company vision is
+to be a leader in leveraging innovative technologies to safeguard and enrich
+people’s journeys and enhance public safety.
+
+* Team lead in several project
+
+Designing and implementing platforms for all the departments while practicing
+agile methodology to achieve high velocity in delivery in multiple projects.
+
+Intifaa::
+Intifaa is platform for Human Resource department to present offers or special offers
+to the company’s employees so that they can benefit from them through the platform
+
++
+.Some achievements include
+[square]
+- Team lead for this project in the Backend and Frontend
+- Participated in the Intifaa Revamp docs project.
+- Participated in establishing the software practices used by the Intifaa
+(Pull Requests, Code Review, Unit Tests, etc...) to assure high quality of the software.
+- Participated in the Architecture and Design of the Intifaa Platform.
+
+Notification Center::
+Notification center is platform to integrate with multiple SMS providers to send
+and schedule the messages.
+
+* Combine the projects repository as Monorepo concept to one single repository.
+* Create the CI scripts for building projects
+
+
+.Technologies used
+`Java` (__up to jdk17__), `Spring framework`, `Spring Boot`, `Spring Cloud`, `Hibernate`,
+`Typescript`, `Angular`, `Docker`, `Openshift`, `SQL Server`,  `Gitlab`, `Gitlab CI/CD`
+
+==== Software Engineer / Freelancer
+===== Semi
+__Jan 2022 – 06/2022 __
+
+__ Part-time job as freelancer__
+
+Semi is a startup company that aimed to design and build a e-commerece website for clients.
+
+- I have built the backend of Semi webiste with Spring framework.
+- Develop and Maintain websites linked with Salla for clients.
+
+
+=== Education
+
+==== B.S. Software Engineering
+__Hafr Al Batin University, Hafr Al Batin Saudi Arabia +
+Sep 2017 - June 2022__
+
+=== Certifications
+
+[cols="1,1",frame=none, grid=none]
+|===
+| Simplilearn - Full Stack Java Developer +
+Jun 2021 +
+License: https://success.simplilearn.com/6623148a-8281-471e-844f-99c39404c5eb[Simplilearn]
+| Udemy - Spring & Hibernate +
+June 2020 +
+License: https://www.udemy.com/certificate/UC-aa5b91ca-e5bf-4a76-bcf2-728564bb7b18/[Udemy]
+| Udemy - Java Programming Masterclass +
+Sep 2019 +
+License: https://ude.my/UC-27083876-a569-45eb-8c43-14f1b8bff9a0[Udemy]
+|
+|===
+
+=== Skills
+
+* Good understanding of OOP & Functional style programming.
+* Good understanding Test Driven Development and Unit, Integration, E2E Testing.
+* Agile Methodologies - Scrum, Kanban.
+* Good knowledge in Linux Configuration & shell scripting.
+* Basic understanding of the some compilers architecture, e.g. `GCC`, `GraalVM` and others.
+* Distributed Programming, messaging, stream processing and data pipelines (`RabbitMQ`, `Kafka`, `JMS`).
+* Good background in Web Services (SOAP-based and REST) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
+* Experience Mobile Programming (Android / iOS).
+* Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others).
+* Basic knowledge Linux programming (syscalls, filesystems, namespaces and others).
+* Basic knowledge of IBM solutions (`IBM WebSphere Portal`, `IBM WebShpere Application Service`, `IBM WebShepere MQ`, `IBM Db2`, `IBM DataPower`)
+* Basic understanding of the different storage types (object, block, file) and its use cases.
+* Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques.
+* Basic knowledge and experience about NoSQL solutions such as `MongoDB`, `Redis`.
+* Experience in different RDBMS - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`, `IBM db2`.
+* Basic understanding of Unicode and other related char encoding standards.
+* Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, wireshark, tcpdump, and more.
+* Understanding of `OIDC` and `OAuth 2.0` protocols.
+* Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `k3s`, `GCP` and `AWS`.
+* Basic knowledge about Data analysis using Python `Pandas`.
+
+
+=== Languages
+
+* *Arabic* - Native
+* *English* - Professional working proficiency
