@@ -138,19 +138,17 @@ License: https://ude.my/UC-27083876-a569-45eb-8c43-14f1b8bff9a0[Udemy]
 * Good knowledge in Linux Configuration & shell scripting.
 * Basic understanding of the some compilers architecture, e.g. `GCC`, `GraalVM` and others.
 * Distributed Programming, messaging, stream processing and data pipelines (`RabbitMQ`, `Kafka`, `JMS`).
-* Good background in Web Services (SOAP-based and REST) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
-* Experience Mobile Programming (Android / iOS).
+* Good background in Web Services (SOAP-based and REST).
 * Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others).
 * Basic knowledge Linux programming (syscalls, filesystems, namespaces and others).
 * Basic knowledge of IBM solutions (`IBM WebSphere Portal`, `IBM WebShpere Application Service`, `IBM WebShepere MQ`, `IBM Db2`, `IBM DataPower`)
-* Basic understanding of the different storage types (object, block, file) and its use cases.
 * Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques.
 * Basic knowledge and experience about NoSQL solutions such as `MongoDB`, `Redis`.
 * Experience in different RDBMS - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`, `IBM db2`.
 * Basic understanding of Unicode and other related char encoding standards.
 * Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, wireshark, tcpdump, and more.
 * Understanding of `OIDC` and `OAuth 2.0` protocols.
-* Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `k3s`, `GCP` and `AWS`.
+* Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `k3s` and `AWS`.
 * Basic knowledge about Data analysis using Python `Pandas`.
 
 
