@@ -25,7 +25,7 @@ bsalharbi00@gmail.com
 
 == Work Experience
 
-=== Software Engineer
+=== Senior Software Engineer
 ===== Elm
 __May 2023 – Present +
 Riyadh, Saudi Arabia__
