@@ -41,17 +41,31 @@ manner to citizens, residents and visitors, by taking advantage of technical
 capabilities and harnessing modern technologies. This provides an excellent
 user experience through automated services with high reliability, security and efficiency.
 
-- Develope and maintain Absher services
+- Develop and maintain Absher services
 - Squad lead and responsible to achieve several absher services.
 - Contributed to training and mentoring new joiners to the team.
+
+Individual Plate Auction::
+Developed a comprehensive marketplace platform for plate auctions with advanced bidding engine and real-time functionality. Architected the entire system from scratch, implementing complex features including:
+
+* Designed and implemented auction viewing system.
+* Developed dynamic bidding mechanisms with integrated payment processing.
+* Created admin dashboard for comprehensive platform management.
+* Implemented scheduling and queuing systems for efficient auction management.
+
++
+.Achievements
+* Built end-to-end auction platform with multiple integrated modules
+* Implemented secure payment gateway integration with refund capabilities
+* Developed robust backend infrastructure for handling concurrent auctions
+
 
 +
 .Technologies used
 `Java` (__up to jdk8__), `Spring framework`, `Spring Boot`,
 `IBM WebSphere Application Server`, `IBM WebSphere Portal`, `IBM WebSphere MQ`,
-`Redis`, `Jenkins`, `IBM DataPower`, `IBM Db2`
-`Jira`, `Bitbucket`
-
+`Redis`, `Jenkins`, `IBM DataPower`, `IBM Db2`,
+`Jira`, `Bitbucket`, `JSF`
 
 === Software Engineer / Full Stack Developer
 ==== TAHAKOM
