@@ -59,8 +59,6 @@ Developed a comprehensive marketplace platform for plate auctions with advanced 
 * Implemented secure payment gateway integration with refund capabilities
 * Developed robust backend infrastructure for handling concurrent auctions
 
-
-+
 .Technologies used
 `Java` (__up to jdk8__), `Spring framework`, `Spring Boot`,
 `IBM WebSphere Application Server`, `IBM WebSphere Portal`, `IBM WebSphere MQ`,

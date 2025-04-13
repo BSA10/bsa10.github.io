@@ -1,0 +1,105 @@
+:icons: font
+:pdf-theme: pdf-theme.yml
+
+ifeval::["{backend}" == "html5"]
+== BASSAM ALHARBI http://bsa10.github.io/cv.pdf[icon:download[0.5x],role=external,window=_blank]
+endif::[]
+
+ifeval::["{backend}" == "pdf"]
+== BASSAM ALHARBI http://bsa10.github.io/index.html[icon:globe-africa[0.5x],role=external,window=_blank]
+endif::[]
+
+Experienced software engineer with a passion for developing innovative software that accelerates
+the efficiency and effectiveness of organizational success. Skilled in full-stack development
+and enterprise solutions with a focus on high-performance, secure systems.
+
+.Contact Information
+****
+[.text-center]
+bsalharbi00@gmail.com
+| https://github.com/bsa10[Github,role=external,window=_blank]
+| https://www.linkedin.com/in/bsa10[Linkedin,role=external,window=_blank]
+****
+
+== Work Experience
+
+=== Senior Software Engineer
+===== Elm
+__May 2023 – Present +
+Riyadh, Saudi Arabia__
+
+Absher::
+Lead developer for Absher platform (Saudi Ministry of Interior digital services).
+- Develop and maintain Absher services
+- Squad lead and responsible to achieve several absher services
+- Contributed to training and mentoring new joiners to the team
+
+Individual Plate Auction::
+Architected and built comprehensive auction platform with real-time bidding functionality.
+
+* Designed and implemented auction viewing system
+* Developed dynamic bidding mechanisms with integrated payment processing
+* Created admin dashboard for comprehensive platform management
+* Implemented scheduling and queuing systems for efficient auction management
+
+.Technologies used
+`Java` (__up to jdk8__), `Spring framework`, `Spring Boot`,
+`IBM WebSphere Application Server`, `IBM WebSphere Portal`, `IBM WebSphere MQ`,
+`Redis`, `Jenkins`, `IBM DataPower`, `IBM Db2`, `Jira`, `Bitbucket`, `JSF`
+
+=== Software Engineer / Full Stack Developer
+==== TAHAKOM
+__June 2022 - May 2023 +
+Riyadh, Saudi Arabia__
+
+* Team lead for multiple projects including Intifaa (HR platform) and Notification Center
+* Established software development practices (PR reviews, unit testing, code quality)
+* Implemented CI/CD pipelines and microservices architecture
+
+.Technologies used
+`Java` (__up to jdk17__), `Spring framework`, `Spring Boot`, `Spring Cloud`, `Hibernate`,
+`Typescript`, `Angular`, `Docker`, `Openshift`, `SQL Server`,  `Gitlab`, `Gitlab CI/CD`
+
+==== Software Engineer / Freelancer
+===== Semi
+__Jan 2022 – 06/2022__
+
+- Built e-commerce backend systems with Spring framework
+- Developed and maintained websites integrated with Salla platform
+
+=== Education
+
+==== B.S. Software Engineering
+__Hafr Al Batin University, Hafr Al Batin Saudi Arabia +
+Sep 2017 - June 2022__
+
+=== Certifications
+
+[cols="1,1",frame=none, grid=none]
+|===
+| Simplilearn - Full Stack Java Developer +
+Jun 2021 +
+License: https://success.simplilearn.com/6623148a-8281-471e-844f-99c39404c5eb[Simplilearn]
+| Udemy - Spring & Hibernate +
+June 2020 +
+License: https://www.udemy.com/certificate/UC-aa5b91ca-e5bf-4a76-bcf2-728564bb7b18/[Udemy]
+| Udemy - Java Programming Masterclass +
+Sep 2019 +
+License: https://ude.my/UC-27083876-a569-45eb-8c43-14f1b8bff9a0[Udemy]
+|
+|===
+
+=== Technical Skills
+
+* *Programming:* Java (up to JDK17), TypeScript, JavaScript, Shell scripting
+* *Frameworks:* Spring (Boot, Cloud), Hibernate, Angular, Vue.js
+* *Databases:* SQL Server, Oracle, PostgreSQL, MySQL, IBM Db2, Redis, MongoDB
+* *DevOps:* Docker, Kubernetes, OpenShift, Jenkins, GitLab CI/CD
+* *Enterprise:* IBM WebSphere (Application Server, Portal, MQ), IBM DataPower
+* *Architecture:* Microservices, REST APIs, SOAP, OAuth 2.0/OIDC, Distributed systems
+* *Methodologies:* Agile (Scrum, Kanban), TDD, OOP, Functional programming
+
+=== Languages
+
+* *Arabic* - Native
+* *English* - Professional working proficiency
